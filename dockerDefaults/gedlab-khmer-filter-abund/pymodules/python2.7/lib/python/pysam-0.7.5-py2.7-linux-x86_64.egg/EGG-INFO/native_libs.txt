@@ -1,0 +1,4 @@
+pysam/csamtools.so
+pysam/ctabix.so
+pysam/TabProxies.so
+pysam/cvcf.so

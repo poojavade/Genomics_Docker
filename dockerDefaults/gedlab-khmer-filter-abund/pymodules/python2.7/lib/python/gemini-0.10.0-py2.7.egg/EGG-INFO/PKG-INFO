@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: gemini
+Version: 0.10.0
+Summary: A database framework for exploring genetic variation
+Home-page: http://gemini.readthedocs.org
+Author: Aaron Quinlan and Uma Paila
+Author-email: arq5x@virginia.edu
+License: UNKNOWN
+Description: 
+        ``gemini`` is a database framework for exploring genetic variation'
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires: python (>=2.5, <3.0)

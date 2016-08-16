@@ -1,0 +1,3 @@
+statsmodels/nonparametric/_smoothers_lowess.so
+statsmodels/nonparametric/linbin.so
+statsmodels/tsa/kalmanf/kalman_loglike.so

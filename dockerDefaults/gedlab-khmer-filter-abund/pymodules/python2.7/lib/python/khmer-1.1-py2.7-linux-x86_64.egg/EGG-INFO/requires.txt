@@ -1,0 +1,8 @@
+screed >= 0.7.1
+
+[docs]
+sphinx
+sphinxcontrib-autoprogram
+
+[tests]
+nose >= 1.0

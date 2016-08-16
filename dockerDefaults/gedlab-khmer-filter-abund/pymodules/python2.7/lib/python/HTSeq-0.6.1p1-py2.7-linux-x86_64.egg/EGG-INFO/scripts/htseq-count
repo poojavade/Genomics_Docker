@@ -1,0 +1,5 @@
+#!/usr/bin/python2.7
+
+import HTSeq.scripts.count
+
+HTSeq.scripts.count.main()
