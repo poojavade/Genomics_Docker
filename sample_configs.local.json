@@ -1,0 +1,17 @@
+{
+  "fastqsanger_forward_input": {
+        "class": "File",
+        "format": "http://edamontology.org/format_1932",
+        "path": "/tmp/Galaxy1-[Exome-Sample_Forward_1.fastqsanger].fastqsanger"
+    },
+    "fastqsanger_reverse_input": {
+        "class": "File",
+        "format": "http://edamontology.org/format_1932",
+        "path": "/tmp/Galaxy2-[Exome-Sample_Reverse_2.fastqsanger].fastqsanger"
+    },
+    "bwamem_result": {
+        "class": "File",
+        "format": "http://edamontology.org/format_2572",
+        "path": "/tmp/bwamem_result"
+    }
+}
